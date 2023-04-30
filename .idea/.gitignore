@@ -9,6 +9,7 @@
 
 #ignore .idea folder
 .idea/
+.idea/*
 .idea/**/*
 .idea/*.xml
 
